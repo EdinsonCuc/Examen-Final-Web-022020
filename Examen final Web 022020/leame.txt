@@ -1,0 +1,14 @@
+Nombre: Edinson Horacio Cuc Chen
+Carnét: 4090-16-21763
+
+
+***********************************
+Ingresar a la página: http://localhost:8000/admin/login/?next=/admin/
+
+
+Usuarios para ingresar al CRUD
+
+Usuario: Edgar
+Password: E12345678
+
+Usuario: Edinson
